@@ -1,0 +1,30 @@
+
+
+.App{
+  text-align: center;
+  margin: auto;
+  height: auto;
+  width: 800px;
+  min-width: 800px;
+
+}
+.input{
+  width: 500px;
+}
+
+
+h1{
+  text-align: center;
+}
+
+.paper {
+
+  position: absolute;
+  top: 200px;
+  left: 480px;
+  padding: 20px;
+  border: 2px solid gainsboro;
+  background: white;
+  margin: auto;
+
+}
